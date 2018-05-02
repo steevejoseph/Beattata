@@ -4,7 +4,7 @@ Simple Patatap Clone made with HowlerJS and PaperJS, shoutout to Colt Steele
 ## To Run:
 1. Clone/download the repo
 2. Extact to wherever you want to play
-3. Open up circle.html in your favorite browser (and by that, I mean Chrome).
+3. Open up home.html in your favorite browser (and by that, I mean Chrome).
 
 
 [Example](https://www.youtube.com/watch?v=IG8IOF9En9Q)
